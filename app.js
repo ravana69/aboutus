@@ -10,7 +10,7 @@ particlesJS("particles-js", {
             },
         },
         color: {
-            value: "#1db954",
+            value: "#b91d1d",
         },
         shape: {
             type: "circle",
@@ -58,10 +58,10 @@ particlesJS("particles-js", {
             enable: true,
             speed: 3,
             direction: "none",
-            random: false,
+            random: true,
             straight: false,
             out_mode: "out",
-            bounce: false,
+            bounce: true,
             attract: {
                 enable: false,
                 rotateX: 600,
